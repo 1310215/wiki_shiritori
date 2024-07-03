@@ -19,3 +19,21 @@ Install the required packages using pip:
 
 ```bash
 pip install requests beautifulsoup4
+```
+
+## Usage
+
+Run the program:
+
+```bash
+python wiki_shiritori.py
+```
+
+## Example
+
+```bash
+Enter a starting word: Apple
+Next word: Elephant
+Next word: Tomato
+...
+```
